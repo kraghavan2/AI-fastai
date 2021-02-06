@@ -1,0 +1,16 @@
+﻿PEOPLE_POSITIVE_CASES_COUNT,COUNTY_NAME,PROVINCE_STATE_NAME,PEOPLE_DEATH_NEW_COUNT,COUNTY_FIPS_NUMBER,PEOPLE_POSITIVE_NEW_CASES_COUNT,PEOPLE_DEATH_COUNT,Factor1,Factor2,State_and_County,,Case_Pop,RISK
+0,Abbeville,SC,0,45001,0,0,0%,0%,"Abbeville, SC",24557,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+0,Acadia,LA,0,22001,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
+5100,Bell,TX,2,48027,19,74,3%,0%,"Bell, TX",359160.5,1%,Low
+5100,Bell,TX,0,48027,0,74,0%,0%,"Bell, TX",359160.5,1%,Low
+5100,Bell,TX,1,48027,0,75,1%,0%,"Bell, TX",359160.5,1%,Low
+5114,Bell,TX,1,48027,14,76,1%,0%,"Bell, TX",359160.5,1%,Low
+5219,Bell,TX,1,48027,105,77,1%,2%,"Bell, TX",359160.5,1%,Low
