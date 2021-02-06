@@ -1,194 +1,194 @@
 ﻿PEOPLE_POSITIVE_CASES_COUNT,COUNTY_NAME,PROVINCE_STATE_NAME,REPORT_DATE,CONTINENT_NAME,DATA_SOURCE_NAME,PEOPLE_DEATH_NEW_COUNT,COUNTY_FIPS_NUMBER,COUNTRY_ALPHA_3_CODE,COUNTRY_SHORT_NAME,COUNTRY_ALPHA_2_CODE,PEOPLE_POSITIVE_NEW_CASES_COUNT,PEOPLE_DEATH_COUNT,Factor1,Factor2,State_and_County,Pop,Case_Pop,RISK
-0,Abbeville,SC,1/21/2020,America,NY Times,0,45001,USA,United States,US,0,0,0%,0%,"Abbeville, SC",24557,0%,Low
-0,Acadia,LA,1/21/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-0,Acadia,LA,1/22/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-0,Acadia,LA,1/23/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-0,Acadia,LA,1/24/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-0,Acadia,LA,1/25/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-0,Acadia,LA,1/26/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-0,Acadia,LA,1/27/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-0,Acadia,LA,1/28/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-0,Acadia,LA,1/29/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,"Acadia, LA",62129.5,0%,Low
-5100,Bell,TX,9/12/2020,America,NY Times,2,48027,USA,United States,US,19,74,3%,0%,"Bell, TX",359160.5,1%,Low
-5100,Bell,TX,9/13/2020,America,NY Times,0,48027,USA,United States,US,0,74,0%,0%,"Bell, TX",359160.5,1%,Low
-5100,Bell,TX,9/14/2020,America,NY Times,1,48027,USA,United States,US,0,75,1%,0%,"Bell, TX",359160.5,1%,Low
-5114,Bell,TX,9/15/2020,America,NY Times,1,48027,USA,United States,US,14,76,1%,0%,"Bell, TX",359160.5,1%,Low
-5219,Bell,TX,9/16/2020,America,NY Times,1,48027,USA,United States,US,105,77,1%,2%,"Bell, TX",359160.5,1%,Low
-0,Belmont,OH,2/14/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,"Belmont, OH",67269.5,0%,Low
-0,Belmont,OH,2/15/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,"Belmont, OH",67269.5,0%,Low
-0,Belmont,OH,2/16/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,"Belmont, OH",67269.5,0%,Low
-0,Belmont,OH,2/17/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,"Belmont, OH",67269.5,0%,Low
-0,Belmont,OH,2/18/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,"Belmont, OH",67269.5,0%,Low
-0,Belmont,OH,2/19/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,"Belmont, OH",67269.5,0%,Low
-3915,DeKalb,IL,11/13/2020,America,NY Times,0,17037,USA,United States,US,109,44,0%,3%,"DeKalb, IL",104623,4%,Low
-3927,DeKalb,IL,11/14/2020,America,NY Times,0,17037,USA,United States,US,12,44,0%,0%,"DeKalb, IL",104623,4%,Low
-4002,DeKalb,IL,11/15/2020,America,NY Times,0,17037,USA,United States,US,75,44,0%,2%,"DeKalb, IL",104623,4%,Low
-4122,DeKalb,IL,11/16/2020,America,NY Times,0,17037,USA,United States,US,120,44,0%,3%,"DeKalb, IL",104623,4%,Low
-4207,DeKalb,IL,11/17/2020,America,NY Times,0,17037,USA,United States,US,85,44,0%,2%,"DeKalb, IL",104623,4%,Low
-4279,DeKalb,IL,11/18/2020,America,NY Times,0,17037,USA,United States,US,72,44,0%,2%,"DeKalb, IL",104623,4%,Low
-341,Delaware,OK,7/24/2020,America,NY Times,0,40041,USA,United States,US,18,19,0%,5%,"Delaware, OK",42911.5,1%,Low
-351,Delaware,OK,7/25/2020,America,NY Times,0,40041,USA,United States,US,10,19,0%,3%,"Delaware, OK",42911.5,1%,Low
-363,Delaware,OK,7/26/2020,America,NY Times,0,40041,USA,United States,US,12,19,0%,3%,"Delaware, OK",42911.5,1%,Low
-370,Delaware,OK,7/27/2020,America,NY Times,0,40041,USA,United States,US,7,19,0%,2%,"Delaware, OK",42911.5,1%,Low
-379,Delaware,OK,7/28/2020,America,NY Times,0,40041,USA,United States,US,9,19,0%,2%,"Delaware, OK",42911.5,1%,Low
-381,Delaware,OK,7/29/2020,America,NY Times,0,40041,USA,United States,US,2,19,0%,1%,"Delaware, OK",42911.5,1%,Low
-4160,Boone,IL,12/5/2020,America,NY Times,1,17007,USA,United States,US,47,38,3%,1%,"Boone, IL",53512,8%,Medium
-4187,Boone,IL,12/6/2020,America,NY Times,2,17007,USA,United States,US,27,40,5%,1%,"Boone, IL",53512,8%,Medium
-4227,Boone,IL,12/7/2020,America,NY Times,0,17007,USA,United States,US,40,40,0%,1%,"Boone, IL",53512,8%,Medium
-4287,Boone,IL,12/8/2020,America,NY Times,1,17007,USA,United States,US,60,41,2%,1%,"Boone, IL",53512,8%,Medium
-4308,Boone,IL,12/9/2020,America,NY Times,5,17007,USA,United States,US,21,46,11%,0%,"Boone, IL",53512,8%,Medium
-4367,Boone,IL,12/10/2020,America,NY Times,2,17007,USA,United States,US,59,48,4%,1%,"Boone, IL",53512,8%,Medium
-718,Calhoun,FL,10/29/2020,America,NY Times,0,12013,USA,United States,US,9,14,0%,1%,"Calhoun, FL",14324,5%,Medium
-723,Calhoun,FL,10/30/2020,America,NY Times,0,12013,USA,United States,US,5,14,0%,1%,"Calhoun, FL",14324,5%,Medium
-727,Calhoun,FL,10/31/2020,America,NY Times,0,12013,USA,United States,US,4,14,0%,1%,"Calhoun, FL",14324,5%,Medium
-731,Calhoun,FL,11/1/2020,America,NY Times,0,12013,USA,United States,US,4,14,0%,1%,"Calhoun, FL",14324,5%,Medium
-733,Calhoun,FL,11/2/2020,America,NY Times,0,12013,USA,United States,US,2,14,0%,0%,"Calhoun, FL",14324,5%,Medium
-962,Cook,GA,12/5/2020,America,NY Times,0,13075,USA,United States,US,5,20,0%,1%,"Cook, GA",17220.5,6%,Medium
-963,Cook,GA,12/6/2020,America,NY Times,0,13075,USA,United States,US,1,20,0%,0%,"Cook, GA",17220.5,6%,Medium
-963,Cook,GA,12/7/2020,America,NY Times,0,13075,USA,United States,US,0,20,0%,0%,"Cook, GA",17220.5,6%,Medium
-975,Cook,GA,12/8/2020,America,NY Times,0,13075,USA,United States,US,12,20,0%,1%,"Cook, GA",17220.5,6%,Medium
-988,Cook,GA,12/9/2020,America,NY Times,0,13075,USA,United States,US,13,20,0%,1%,"Cook, GA",17220.5,6%,Medium
-995,Cook,GA,12/10/2020,America,NY Times,0,13075,USA,United States,US,7,20,0%,1%,"Cook, GA",17220.5,6%,Medium
-1006,Cook,GA,12/11/2020,America,NY Times,0,13075,USA,United States,US,11,20,0%,1%,"Cook, GA",17220.5,6%,Medium
-1014,Cook,GA,12/12/2020,America,NY Times,0,13075,USA,United States,US,8,20,0%,1%,"Cook, GA",17220.5,6%,Medium
-249,Fallon,MT,12/2/2020,America,NY Times,0,30025,USA,United States,US,1,1,0%,0%,"Fallon, MT",2879,9%,Medium
-251,Fallon,MT,12/3/2020,America,NY Times,0,30025,USA,United States,US,2,1,0%,1%,"Fallon, MT",2879,9%,Medium
-252,Fallon,MT,12/4/2020,America,NY Times,0,30025,USA,United States,US,1,1,0%,0%,"Fallon, MT",2879,9%,Medium
-255,Fallon,MT,12/5/2020,America,NY Times,0,30025,USA,United States,US,3,1,0%,1%,"Fallon, MT",2879,9%,Medium
-255,Fallon,MT,12/6/2020,America,NY Times,0,30025,USA,United States,US,0,1,0%,0%,"Fallon, MT",2879,9%,Medium
-259,Fallon,MT,12/7/2020,America,NY Times,0,30025,USA,United States,US,4,1,0%,2%,"Fallon, MT",2879,9%,Medium
-259,Fallon,MT,12/8/2020,America,NY Times,0,30025,USA,United States,US,0,1,0%,0%,"Fallon, MT",2879,9%,Medium
-260,Fallon,MT,12/9/2020,America,NY Times,0,30025,USA,United States,US,1,1,0%,0%,"Fallon, MT",2879,9%,Medium
-260,Fallon,MT,12/10/2020,America,NY Times,0,30025,USA,United States,US,0,1,0%,0%,"Fallon, MT",2879,9%,Medium
-262,Fallon,MT,12/11/2020,America,NY Times,0,30025,USA,United States,US,2,1,0%,1%,"Fallon, MT",2879,9%,Medium
-262,Fallon,MT,12/12/2020,America,NY Times,0,30025,USA,United States,US,0,1,0%,0%,"Fallon, MT",2879,9%,Medium
-909,Falls,TX,12/11/2020,America,NY Times,0,48145,USA,United States,US,55,15,0%,6%,"Falls, TX",17264,5%,Medium
-1093,Barnes,ND,12/4/2020,America,NY Times,0,38003,USA,United States,US,13,18,0%,1%,"Barnes, ND",10471,10%,High
-1105,Barnes,ND,12/5/2020,America,NY Times,0,38003,USA,United States,US,12,18,0%,1%,"Barnes, ND",10471,11%,High
-1120,Barnes,ND,12/6/2020,America,NY Times,0,38003,USA,United States,US,15,18,0%,1%,"Barnes, ND",10471,11%,High
-1127,Barnes,ND,12/7/2020,America,NY Times,0,38003,USA,United States,US,7,18,0%,1%,"Barnes, ND",10471,11%,High
-1127,Barnes,ND,12/8/2020,America,NY Times,0,38003,USA,United States,US,0,18,0%,0%,"Barnes, ND",10471,11%,High
-1153,Barnes,ND,12/9/2020,America,NY Times,1,38003,USA,United States,US,26,19,5%,2%,"Barnes, ND",10471,11%,High
-1166,Barnes,ND,12/10/2020,America,NY Times,0,38003,USA,United States,US,13,19,0%,1%,"Barnes, ND",10471,11%,High
-1170,Barnes,ND,12/11/2020,America,NY Times,2,38003,USA,United States,US,4,21,10%,0%,"Barnes, ND",10471,11%,High
-1175,Barnes,ND,12/12/2020,America,NY Times,1,38003,USA,United States,US,5,22,5%,0%,"Barnes, ND",10471,11%,High
-1893,Beadle,SD,11/14/2020,America,NY Times,2,46005,USA,United States,US,51,21,10%,3%,"Beadle, SD",18438,10%,High
-1924,Beadle,SD,11/15/2020,America,NY Times,1,46005,USA,United States,US,31,22,5%,2%,"Beadle, SD",18438,10%,High
-1943,Beadle,SD,11/16/2020,America,NY Times,0,46005,USA,United States,US,19,22,0%,1%,"Beadle, SD",18438,11%,High
-1975,Beadle,SD,11/17/2020,America,NY Times,0,46005,USA,United States,US,32,22,0%,2%,"Beadle, SD",18438,11%,High
-2024,Beadle,SD,11/18/2020,America,NY Times,0,46005,USA,United States,US,49,22,0%,2%,"Beadle, SD",18438,11%,High
-1436,Chattahoochee,GA,9/6/2020,America,NY Times,0,13053,USA,United States,US,9,2,0%,1%,"Chattahoochee, GA",10753.5,13%,High
-1439,Chattahoochee,GA,9/7/2020,America,NY Times,0,13053,USA,United States,US,3,2,0%,0%,"Chattahoochee, GA",10753.5,13%,High
-1439,Chattahoochee,GA,9/8/2020,America,NY Times,0,13053,USA,United States,US,0,2,0%,0%,"Chattahoochee, GA",10753.5,13%,High
-1461,Chattahoochee,GA,9/9/2020,America,NY Times,0,13053,USA,United States,US,22,2,0%,2%,"Chattahoochee, GA",10753.5,14%,High
-1515,Chattahoochee,GA,9/10/2020,America,NY Times,0,13053,USA,United States,US,54,2,0%,4%,"Chattahoochee, GA",10753.5,14%,High
-1533,Chattahoochee,GA,9/11/2020,America,NY Times,0,13053,USA,United States,US,18,2,0%,1%,"Chattahoochee, GA",10753.5,14%,High
-1584,Chattahoochee,GA,9/12/2020,America,NY Times,0,13053,USA,United States,US,51,2,0%,3%,"Chattahoochee, GA",10753.5,15%,High
-1584,Chattahoochee,GA,9/13/2020,America,NY Times,0,13053,USA,United States,US,0,2,0%,0%,"Chattahoochee, GA",10753.5,15%,High
-1584,Chattahoochee,GA,9/14/2020,America,NY Times,0,13053,USA,United States,US,0,2,0%,0%,"Chattahoochee, GA",10753.5,15%,High
-1583,Chattahoochee,GA,9/15/2020,America,NY Times,-1,13053,USA,United States,US,-1,1,-100%,0%,"Chattahoochee, GA",10753.5,15%,High
-1596,Chattahoochee,GA,9/16/2020,America,NY Times,0,13053,USA,United States,US,13,1,0%,1%,"Chattahoochee, GA",10753.5,15%,High
-1009,Crowley,CO,11/23/2020,America,NY Times,0,8025,USA,United States,US,2,1,0%,0%,"Crowley, CO",6009,17%,High
-1011,Crowley,CO,11/24/2020,America,NY Times,1,8025,USA,United States,US,2,2,50%,0%,"Crowley, CO",6009,17%,High
-1015,Crowley,CO,11/25/2020,America,NY Times,0,8025,USA,United States,US,4,2,0%,0%,"Crowley, CO",6009,17%,High
-1087,Crowley,CO,11/26/2020,America,NY Times,1,8025,USA,United States,US,72,3,33%,7%,"Crowley, CO",6009,18%,High
-1149,Crowley,CO,11/27/2020,America,NY Times,0,8025,USA,United States,US,62,3,0%,5%,"Crowley, CO",6009,19%,High
-1222,Crowley,CO,11/28/2020,America,NY Times,0,8025,USA,United States,US,73,3,0%,6%,"Crowley, CO",6009,20%,High
-1237,Crowley,CO,11/29/2020,America,NY Times,0,8025,USA,United States,US,15,3,0%,1%,"Crowley, CO",6009,21%,High
-1239,Crowley,CO,11/30/2020,America,NY Times,0,8025,USA,United States,US,2,3,0%,0%,"Crowley, CO",6009,21%,High
-1241,Crowley,CO,12/1/2020,America,NY Times,0,8025,USA,United States,US,2,3,0%,0%,"Crowley, CO",6009,21%,High
-1242,Crowley,CO,12/2/2020,America,NY Times,0,8025,USA,United States,US,1,3,0%,0%,"Crowley, CO",6009,21%,High
-1299,Crowley,CO,12/3/2020,America,NY Times,2,8025,USA,United States,US,57,5,40%,4%,"Crowley, CO",6009,22%,High
-1310,Crowley,CO,12/4/2020,America,NY Times,0,8025,USA,United States,US,11,5,0%,1%,"Crowley, CO",6009,22%,High
-3233,Calumet,WI,11/7/2020,America,NY Times,0,55015,USA,United States,US,60,18,0%,2%,"Calumet, WI",50110.5,6%,Medium
-3261,Calumet,WI,11/8/2020,America,NY Times,0,55015,USA,United States,US,28,18,0%,1%,"Calumet, WI",50110.5,7%,Medium
-3325,Calumet,WI,11/9/2020,America,NY Times,0,55015,USA,United States,US,64,18,0%,2%,"Calumet, WI",50110.5,7%,Medium
-56,Camas,ID,12/5/2020,America,NY Times,0,16025,USA,United States,US,2,0,0%,4%,"Camas, ID",1113.5,5%,Medium
-56,Camas,ID,12/6/2020,America,NY Times,0,16025,USA,United States,US,0,0,0%,0%,"Camas, ID",1113.5,5%,Medium
-57,Camas,ID,12/7/2020,America,NY Times,0,16025,USA,United States,US,1,0,0%,2%,"Camas, ID",1113.5,5%,Medium
-56,Camas,ID,12/8/2020,America,NY Times,0,16025,USA,United States,US,-1,0,0%,-2%,"Camas, ID",1113.5,5%,Medium
-24478,Cameron,TX,11/4/2020,America,NY Times,4,48061,USA,United States,US,98,1089,0%,0%,"Cameron, TX",422651,6%,Medium
-24478,Cameron,TX,11/5/2020,America,NY Times,0,48061,USA,United States,US,0,1089,0%,0%,"Cameron, TX",422651,6%,Medium
-24478,Cameron,TX,11/4/2020,America,NY Times,4,48061,USA,United States,US,98,1089,0%,0%,"Cameron, TX",422651,6%,Medium
-24478,Cameron,TX,11/5/2020,America,NY Times,0,48061,USA,United States,US,0,1089,0%,0%,"Cameron, TX",422651,6%,Medium
-1417,Carroll,AR,11/29/2020,America,NY Times,0,5015,USA,United States,US,7,23,0%,0%,"Carroll, AR",28238.5,5%,Medium
-1433,Carroll,AR,11/30/2020,America,NY Times,0,5015,USA,United States,US,16,23,0%,1%,"Carroll, AR",28238.5,5%,Medium
-1463,Carroll,AR,12/1/2020,America,NY Times,0,5015,USA,United States,US,30,23,0%,2%,"Carroll, AR",28238.5,5%,Medium
-1503,Carroll,AR,12/2/2020,America,NY Times,0,5015,USA,United States,US,40,23,0%,3%,"Carroll, AR",28238.5,5%,Medium
-312,Carter,MO,12/4/2020,America,NY Times,0,29035,USA,United States,US,9,6,0%,3%,"Carter, MO",6032.5,5%,Medium
-320,Carter,MO,12/5/2020,America,NY Times,0,29035,USA,United States,US,8,6,0%,3%,"Carter, MO",6032.5,5%,Medium
-321,Carter,MO,12/6/2020,America,NY Times,0,29035,USA,United States,US,1,6,0%,0%,"Carter, MO",6032.5,5%,Medium
-322,Carter,MO,12/7/2020,America,NY Times,0,29035,USA,United States,US,1,6,0%,0%,"Carter, MO",6032.5,5%,Medium
-323,Carter,MO,12/8/2020,America,NY Times,0,29035,USA,United States,US,1,6,0%,0%,"Carter, MO",6032.5,5%,Medium
-326,Carter,MO,12/9/2020,America,NY Times,0,29035,USA,United States,US,3,6,0%,1%,"Carter, MO",6032.5,5%,Medium
-334,Carter,MO,12/10/2020,America,NY Times,0,29035,USA,United States,US,8,6,0%,2%,"Carter, MO",6032.5,6%,Medium
-334,Carter,MO,12/11/2020,America,NY Times,0,29035,USA,United States,US,0,6,0%,0%,"Carter, MO",6032.5,6%,Medium
-342,Carter,MO,12/12/2020,America,NY Times,0,29035,USA,United States,US,8,6,0%,2%,"Carter, MO",6032.5,6%,Medium
-66,Carter,MT,10/28/2020,America,NY Times,0,30011,USA,United States,US,10,0,0%,15%,"Carter, MT",1241,5%,Medium
-69,Carter,MT,10/29/2020,America,NY Times,0,30011,USA,United States,US,3,0,0%,4%,"Carter, MT",1241,6%,Medium
-73,Carter,MT,10/30/2020,America,NY Times,2,30011,USA,United States,US,4,2,100%,5%,"Carter, MT",1241,6%,Medium
-73,Carter,MT,10/31/2020,America,NY Times,0,30011,USA,United States,US,0,2,0%,0%,"Carter, MT",1241,6%,Medium
-77,Carter,MT,11/1/2020,America,NY Times,0,30011,USA,United States,US,4,2,0%,5%,"Carter, MT",1241,6%,Medium
-816,Cass,IA,11/29/2020,America,NY Times,0,19029,USA,United States,US,7,23,0%,1%,"Cass, IA",12892,6%,Medium
-818,Cass,IA,11/30/2020,America,NY Times,0,19029,USA,United States,US,2,23,0%,0%,"Cass, IA",12892,6%,Medium
-822,Cass,IA,12/1/2020,America,NY Times,1,19029,USA,United States,US,4,24,4%,0%,"Cass, IA",12892,6%,Medium
-835,Cass,IA,12/2/2020,America,NY Times,0,19029,USA,United States,US,13,24,0%,2%,"Cass, IA",12892,6%,Medium
-847,Cass,IA,12/3/2020,America,NY Times,1,19029,USA,United States,US,12,25,4%,1%,"Cass, IA",12892,7%,Medium
-861,Cass,IA,12/4/2020,America,NY Times,1,19029,USA,United States,US,14,26,4%,2%,"Cass, IA",12892,7%,Medium
-868,Cass,IA,12/5/2020,America,NY Times,0,19029,USA,United States,US,7,26,0%,1%,"Cass, IA",12892,7%,Medium
-875,Cass,IA,12/6/2020,America,NY Times,0,19029,USA,United States,US,7,26,0%,1%,"Cass, IA",12892,7%,Medium
-2606,Cass,MI,12/9/2020,America,NY Times,0,26027,USA,United States,US,42,31,0%,2%,"Cass, MI",51756,5%,Medium
-2659,Cass,MI,12/10/2020,America,NY Times,3,26027,USA,United States,US,53,34,9%,2%,"Cass, MI",51756,5%,Medium
-2705,Cass,MI,12/11/2020,America,NY Times,1,26027,USA,United States,US,46,35,3%,2%,"Cass, MI",51756,5%,Medium
-2722,Cass,MI,12/12/2020,America,NY Times,1,26027,USA,United States,US,17,36,3%,1%,"Cass, MI",51756,5%,Medium
-1499,Cass,MN,12/2/2020,America,NY Times,0,27021,USA,United States,US,19,10,0%,1%,"Cass, MN",29645,5%,Medium
-1338,Big Horn,MT,10/26/2020,America,NY Times,2,30003,USA,United States,US,7,36,6%,1%,"Big Horn, MT",13342,10%,High
-1358,Big Horn,MT,10/27/2020,America,NY Times,0,30003,USA,United States,US,20,36,0%,1%,"Big Horn, MT",13342,10%,High
-1362,Big Horn,MT,10/28/2020,America,NY Times,0,30003,USA,United States,US,4,36,0%,0%,"Big Horn, MT",13342,10%,High
-1376,Big Horn,MT,10/29/2020,America,NY Times,2,30003,USA,United States,US,14,38,5%,1%,"Big Horn, MT",13342,10%,High
-10622,Woodbury,IA,12/2/2020,America,NY Times,3,19193,USA,United States,US,138,133,2%,1%,"Woodbury, IA",102811,10%,High
-10764,Woodbury,IA,12/3/2020,America,NY Times,4,19193,USA,United States,US,142,137,3%,1%,"Woodbury, IA",102811,10%,High
-10819,Woodbury,IA,12/4/2020,America,NY Times,3,19193,USA,United States,US,55,140,2%,1%,"Woodbury, IA",102811,11%,High
-10946,Woodbury,IA,12/5/2020,America,NY Times,0,19193,USA,United States,US,127,140,0%,1%,"Woodbury, IA",102811,11%,High
-11001,Woodbury,IA,12/6/2020,America,NY Times,0,19193,USA,United States,US,55,140,0%,0%,"Woodbury, IA",102811,11%,High
-11068,Woodbury,IA,12/7/2020,America,NY Times,2,19193,USA,United States,US,67,142,1%,1%,"Woodbury, IA",102811,11%,High
-11070,Woodbury,IA,12/8/2020,America,NY Times,-16,19193,USA,United States,US,2,126,-13%,0%,"Woodbury, IA",102811,11%,High
-11133,Woodbury,IA,12/9/2020,America,NY Times,6,19193,USA,United States,US,63,132,5%,1%,"Woodbury, IA",102811,11%,High
-11237,Woodbury,IA,12/10/2020,America,NY Times,8,19193,USA,United States,US,104,140,6%,1%,"Woodbury, IA",102811,11%,High
-11364,Woodbury,IA,12/11/2020,America,NY Times,3,19193,USA,United States,US,127,143,2%,1%,"Woodbury, IA",102811,11%,High
-2566,Seward,KS,11/16/2020,America,NY Times,0,20175,USA,United States,US,99,13,0%,4%,"Seward, KS",21665,12%,High
-2566,Seward,KS,11/17/2020,America,NY Times,0,20175,USA,United States,US,0,13,0%,0%,"Seward, KS",21665,12%,High
-2628,Seward,KS,11/18/2020,America,NY Times,0,20175,USA,United States,US,62,13,0%,2%,"Seward, KS",21665,12%,High
-2628,Seward,KS,11/19/2020,America,NY Times,0,20175,USA,United States,US,0,13,0%,0%,"Seward, KS",21665,12%,High
-3664,Scotts Bluff,NE,12/7/2020,America,NY Times,0,31157,USA,United States,US,63,33,0%,2%,"Scotts Bluff, NE",35771.5,10%,High
-3694,Scotts Bluff,NE,12/8/2020,America,NY Times,1,31157,USA,United States,US,30,34,3%,1%,"Scotts Bluff, NE",35771.5,10%,High
-3729,Scotts Bluff,NE,12/9/2020,America,NY Times,0,31157,USA,United States,US,35,34,0%,1%,"Scotts Bluff, NE",35771.5,10%,High
-3765,Scotts Bluff,NE,12/10/2020,America,NY Times,5,31157,USA,United States,US,36,39,13%,1%,"Scotts Bluff, NE",35771.5,11%,High
-3787,Scotts Bluff,NE,12/11/2020,America,NY Times,0,31157,USA,United States,US,22,39,0%,1%,"Scotts Bluff, NE",35771.5,11%,High
-3787,Scotts Bluff,NE,12/12/2020,America,NY Times,0,31157,USA,United States,US,0,39,0%,0%,"Scotts Bluff, NE",35771.5,11%,High
-1687,Scurry,TX,12/4/2020,America,NY Times,2,48415,USA,United States,US,24,24,8%,1%,"Scurry, TX",16757.5,10%,High
-1686,Scurry,TX,12/5/2020,America,NY Times,0,48415,USA,United States,US,-1,24,0%,0%,"Scurry, TX",16757.5,10%,High
-282,Davie,NC,7/21/2020,America,NY Times,0,37059,USA,United States,US,4,3,0%,1%,"Davie, NC",42704.5,1%,Low
-284,Davie,NC,7/22/2020,America,NY Times,0,37059,USA,United States,US,2,3,0%,1%,"Davie, NC",42704.5,1%,Low
-287,Davie,NC,7/23/2020,America,NY Times,0,37059,USA,United States,US,3,3,0%,1%,"Davie, NC",42704.5,1%,Low
-2642,Kenai Peninsula Borough,AK,12/1/2020,America,NY Times,0,2122,USA,United States,US,58,7,0%,2%,"Kenai Peninsula Borough, AK",58634.5,5%,Low
-2724,Kenai Peninsula Borough,AK,12/2/2020,America,NY Times,0,2122,USA,United States,US,82,7,0%,3%,"Kenai Peninsula Borough, AK",58634.5,5%,Low
-2789,Kenai Peninsula Borough,AK,12/3/2020,America,NY Times,0,2122,USA,United States,US,65,7,0%,2%,"Kenai Peninsula Borough, AK",58634.5,5%,Low
-2843,Kenai Peninsula Borough,AK,12/4/2020,America,NY Times,2,2122,USA,United States,US,54,9,22%,2%,"Kenai Peninsula Borough, AK",58634.5,5%,Low
-2929,Kenai Peninsula Borough,AK,12/5/2020,America,NY Times,0,2122,USA,United States,US,86,9,0%,3%,"Kenai Peninsula Borough, AK",58634.5,5%,Low
-0,Kendall,IL,1/21/2020,America,NY Times,0,17093,USA,United States,US,0,0,0%,0%,"Kendall, IL",128353.5,0%,Low
-17915,Montgomery,TX,11/30/2020,America,NY Times,0,48339,USA,United States,US,933,212,0%,5%,"Montgomery, TX",598580.5,3%,Low
-18183,Montgomery,TX,12/1/2020,America,NY Times,0,48339,USA,United States,US,268,212,0%,1%,"Montgomery, TX",598580.5,3%,Low
-18430,Montgomery,TX,12/2/2020,America,NY Times,2,48339,USA,United States,US,247,214,1%,1%,"Montgomery, TX",598580.5,3%,Low
-18648,Montgomery,TX,12/3/2020,America,NY Times,1,48339,USA,United States,US,218,215,0%,1%,"Montgomery, TX",598580.5,3%,Low
-18934,Montgomery,TX,12/4/2020,America,NY Times,1,48339,USA,United States,US,286,216,0%,2%,"Montgomery, TX",598580.5,3%,Low
-18934,Montgomery,TX,12/5/2020,America,NY Times,0,48339,USA,United States,US,0,216,0%,0%,"Montgomery, TX",598580.5,3%,Low
-18934,Montgomery,TX,12/6/2020,America,NY Times,0,48339,USA,United States,US,0,216,0%,0%,"Montgomery, TX",598580.5,3%,Low
-19584,Montgomery,TX,12/7/2020,America,NY Times,0,48339,USA,United States,US,650,216,0%,3%,"Montgomery, TX",598580.5,3%,Low
-386,Rowan,KY,11/1/2020,America,NY Times,0,21205,USA,United States,US,8,2,0%,2%,"Rowan, KY",24481.5,2%,Low
-390,Rowan,KY,11/2/2020,America,NY Times,0,21205,USA,United States,US,4,2,0%,1%,"Rowan, KY",24481.5,2%,Low
-412,Rowan,KY,11/3/2020,America,NY Times,0,21205,USA,United States,US,22,2,0%,5%,"Rowan, KY",24481.5,2%,Low
-419,Rowan,KY,11/4/2020,America,NY Times,0,21205,USA,United States,US,7,2,0%,2%,"Rowan, KY",24481.5,2%,Low
-428,Rowan,KY,11/5/2020,America,NY Times,0,21205,USA,United States,US,9,2,0%,2%,"Rowan, KY",24481.5,2%,Low
-450,Rowan,KY,11/6/2020,America,NY Times,0,21205,USA,United States,US,22,2,0%,5%,"Rowan, KY",24481.5,2%,Low
-460,Rowan,KY,11/7/2020,America,NY Times,0,21205,USA,United States,US,10,2,0%,2%,"Rowan, KY",24481.5,2%,Low
+0,Abbeville,SC,1/21/2020,America,NY Times,0,45001,USA,United States,US,0,0,0%,0%,Abbeville_SC,24557,0%,Low
+0,Acadia,LA,1/21/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+0,Acadia,LA,1/22/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+0,Acadia,LA,1/23/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+0,Acadia,LA,1/24/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+0,Acadia,LA,1/25/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+0,Acadia,LA,1/26/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+0,Acadia,LA,1/27/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+0,Acadia,LA,1/28/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+0,Acadia,LA,1/29/2020,America,NY Times,0,22001,USA,United States,US,0,0,0%,0%,Acadia_LA,62129.5,0%,Low
+5100,Bell,TX,9/12/2020,America,NY Times,2,48027,USA,United States,US,19,74,3%,0%,Bell_TX,359160.5,1%,Low
+5100,Bell,TX,9/13/2020,America,NY Times,0,48027,USA,United States,US,0,74,0%,0%,Bell_TX,359160.5,1%,Low
+5100,Bell,TX,9/14/2020,America,NY Times,1,48027,USA,United States,US,0,75,1%,0%,Bell_TX,359160.5,1%,Low
+5114,Bell,TX,9/15/2020,America,NY Times,1,48027,USA,United States,US,14,76,1%,0%,Bell_TX,359160.5,1%,Low
+5219,Bell,TX,9/16/2020,America,NY Times,1,48027,USA,United States,US,105,77,1%,2%,Bell_TX,359160.5,1%,Low
+0,Belmont,OH,2/14/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,Belmont_OH,67269.5,0%,Low
+0,Belmont,OH,2/15/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,Belmont_OH,67269.5,0%,Low
+0,Belmont,OH,2/16/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,Belmont_OH,67269.5,0%,Low
+0,Belmont,OH,2/17/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,Belmont_OH,67269.5,0%,Low
+0,Belmont,OH,2/18/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,Belmont_OH,67269.5,0%,Low
+0,Belmont,OH,2/19/2020,America,NY Times,0,39013,USA,United States,US,0,0,0%,0%,Belmont_OH,67269.5,0%,Low
+3915,DeKalb,IL,11/13/2020,America,NY Times,0,17037,USA,United States,US,109,44,0%,3%,DeKalb_IL,104623,4%,Low
+3927,DeKalb,IL,11/14/2020,America,NY Times,0,17037,USA,United States,US,12,44,0%,0%,DeKalb_IL,104623,4%,Low
+4002,DeKalb,IL,11/15/2020,America,NY Times,0,17037,USA,United States,US,75,44,0%,2%,DeKalb_IL,104623,4%,Low
+4122,DeKalb,IL,11/16/2020,America,NY Times,0,17037,USA,United States,US,120,44,0%,3%,DeKalb_IL,104623,4%,Low
+4207,DeKalb,IL,11/17/2020,America,NY Times,0,17037,USA,United States,US,85,44,0%,2%,DeKalb_IL,104623,4%,Low
+4279,DeKalb,IL,11/18/2020,America,NY Times,0,17037,USA,United States,US,72,44,0%,2%,DeKalb_IL,104623,4%,Low
+341,Delaware,OK,7/24/2020,America,NY Times,0,40041,USA,United States,US,18,19,0%,5%,Delaware_OK,42911.5,1%,Low
+351,Delaware,OK,7/25/2020,America,NY Times,0,40041,USA,United States,US,10,19,0%,3%,Delaware_OK,42911.5,1%,Low
+363,Delaware,OK,7/26/2020,America,NY Times,0,40041,USA,United States,US,12,19,0%,3%,Delaware_OK,42911.5,1%,Low
+370,Delaware,OK,7/27/2020,America,NY Times,0,40041,USA,United States,US,7,19,0%,2%,Delaware_OK,42911.5,1%,Low
+379,Delaware,OK,7/28/2020,America,NY Times,0,40041,USA,United States,US,9,19,0%,2%,Delaware_OK,42911.5,1%,Low
+381,Delaware,OK,7/29/2020,America,NY Times,0,40041,USA,United States,US,2,19,0%,1%,Delaware_OK,42911.5,1%,Low
+4160,Boone,IL,12/5/2020,America,NY Times,1,17007,USA,United States,US,47,38,3%,1%,Boone_IL,53512,8%,Medium
+4187,Boone,IL,12/6/2020,America,NY Times,2,17007,USA,United States,US,27,40,5%,1%,Boone_IL,53512,8%,Medium
+4227,Boone,IL,12/7/2020,America,NY Times,0,17007,USA,United States,US,40,40,0%,1%,Boone_IL,53512,8%,Medium
+4287,Boone,IL,12/8/2020,America,NY Times,1,17007,USA,United States,US,60,41,2%,1%,Boone_IL,53512,8%,Medium
+4308,Boone,IL,12/9/2020,America,NY Times,5,17007,USA,United States,US,21,46,11%,0%,Boone_IL,53512,8%,Medium
+4367,Boone,IL,12/10/2020,America,NY Times,2,17007,USA,United States,US,59,48,4%,1%,Boone_IL,53512,8%,Medium
+718,Calhoun,FL,10/29/2020,America,NY Times,0,12013,USA,United States,US,9,14,0%,1%,Calhoun_FL,14324,5%,Medium
+723,Calhoun,FL,10/30/2020,America,NY Times,0,12013,USA,United States,US,5,14,0%,1%,Calhoun_FL,14324,5%,Medium
+727,Calhoun,FL,10/31/2020,America,NY Times,0,12013,USA,United States,US,4,14,0%,1%,Calhoun_FL,14324,5%,Medium
+731,Calhoun,FL,11/1/2020,America,NY Times,0,12013,USA,United States,US,4,14,0%,1%,Calhoun_FL,14324,5%,Medium
+733,Calhoun,FL,11/2/2020,America,NY Times,0,12013,USA,United States,US,2,14,0%,0%,Calhoun_FL,14324,5%,Medium
+962,Cook,GA,12/5/2020,America,NY Times,0,13075,USA,United States,US,5,20,0%,1%,Cook_GA,17220.5,6%,Medium
+963,Cook,GA,12/6/2020,America,NY Times,0,13075,USA,United States,US,1,20,0%,0%,Cook_GA,17220.5,6%,Medium
+963,Cook,GA,12/7/2020,America,NY Times,0,13075,USA,United States,US,0,20,0%,0%,Cook_GA,17220.5,6%,Medium
+975,Cook,GA,12/8/2020,America,NY Times,0,13075,USA,United States,US,12,20,0%,1%,Cook_GA,17220.5,6%,Medium
+988,Cook,GA,12/9/2020,America,NY Times,0,13075,USA,United States,US,13,20,0%,1%,Cook_GA,17220.5,6%,Medium
+995,Cook,GA,12/10/2020,America,NY Times,0,13075,USA,United States,US,7,20,0%,1%,Cook_GA,17220.5,6%,Medium
+1006,Cook,GA,12/11/2020,America,NY Times,0,13075,USA,United States,US,11,20,0%,1%,Cook_GA,17220.5,6%,Medium
+1014,Cook,GA,12/12/2020,America,NY Times,0,13075,USA,United States,US,8,20,0%,1%,Cook_GA,17220.5,6%,Medium
+249,Fallon,MT,12/2/2020,America,NY Times,0,30025,USA,United States,US,1,1,0%,0%,Fallon_MT,2879,9%,Medium
+251,Fallon,MT,12/3/2020,America,NY Times,0,30025,USA,United States,US,2,1,0%,1%,Fallon_MT,2879,9%,Medium
+252,Fallon,MT,12/4/2020,America,NY Times,0,30025,USA,United States,US,1,1,0%,0%,Fallon_MT,2879,9%,Medium
+255,Fallon,MT,12/5/2020,America,NY Times,0,30025,USA,United States,US,3,1,0%,1%,Fallon_MT,2879,9%,Medium
+255,Fallon,MT,12/6/2020,America,NY Times,0,30025,USA,United States,US,0,1,0%,0%,Fallon_MT,2879,9%,Medium
+259,Fallon,MT,12/7/2020,America,NY Times,0,30025,USA,United States,US,4,1,0%,2%,Fallon_MT,2879,9%,Medium
+259,Fallon,MT,12/8/2020,America,NY Times,0,30025,USA,United States,US,0,1,0%,0%,Fallon_MT,2879,9%,Medium
+260,Fallon,MT,12/9/2020,America,NY Times,0,30025,USA,United States,US,1,1,0%,0%,Fallon_MT,2879,9%,Medium
+260,Fallon,MT,12/10/2020,America,NY Times,0,30025,USA,United States,US,0,1,0%,0%,Fallon_MT,2879,9%,Medium
+262,Fallon,MT,12/11/2020,America,NY Times,0,30025,USA,United States,US,2,1,0%,1%,Fallon_MT,2879,9%,Medium
+262,Fallon,MT,12/12/2020,America,NY Times,0,30025,USA,United States,US,0,1,0%,0%,Fallon_MT,2879,9%,Medium
+909,Falls,TX,12/11/2020,America,NY Times,0,48145,USA,United States,US,55,15,0%,6%,Falls_TX,17264,5%,Medium
+1093,Barnes,ND,12/4/2020,America,NY Times,0,38003,USA,United States,US,13,18,0%,1%,Barnes_ND,10471,10%,High
+1105,Barnes,ND,12/5/2020,America,NY Times,0,38003,USA,United States,US,12,18,0%,1%,Barnes_ND,10471,11%,High
+1120,Barnes,ND,12/6/2020,America,NY Times,0,38003,USA,United States,US,15,18,0%,1%,Barnes_ND,10471,11%,High
+1127,Barnes,ND,12/7/2020,America,NY Times,0,38003,USA,United States,US,7,18,0%,1%,Barnes_ND,10471,11%,High
+1127,Barnes,ND,12/8/2020,America,NY Times,0,38003,USA,United States,US,0,18,0%,0%,Barnes_ND,10471,11%,High
+1153,Barnes,ND,12/9/2020,America,NY Times,1,38003,USA,United States,US,26,19,5%,2%,Barnes_ND,10471,11%,High
+1166,Barnes,ND,12/10/2020,America,NY Times,0,38003,USA,United States,US,13,19,0%,1%,Barnes_ND,10471,11%,High
+1170,Barnes,ND,12/11/2020,America,NY Times,2,38003,USA,United States,US,4,21,10%,0%,Barnes_ND,10471,11%,High
+1175,Barnes,ND,12/12/2020,America,NY Times,1,38003,USA,United States,US,5,22,5%,0%,Barnes_ND,10471,11%,High
+1893,Beadle,SD,11/14/2020,America,NY Times,2,46005,USA,United States,US,51,21,10%,3%,Beadle_SD,18438,10%,High
+1924,Beadle,SD,11/15/2020,America,NY Times,1,46005,USA,United States,US,31,22,5%,2%,Beadle_SD,18438,10%,High
+1943,Beadle,SD,11/16/2020,America,NY Times,0,46005,USA,United States,US,19,22,0%,1%,Beadle_SD,18438,11%,High
+1975,Beadle,SD,11/17/2020,America,NY Times,0,46005,USA,United States,US,32,22,0%,2%,Beadle_SD,18438,11%,High
+2024,Beadle,SD,11/18/2020,America,NY Times,0,46005,USA,United States,US,49,22,0%,2%,Beadle_SD,18438,11%,High
+1436,Chattahoochee,GA,9/6/2020,America,NY Times,0,13053,USA,United States,US,9,2,0%,1%,Chattahoochee_GA,10753.5,13%,High
+1439,Chattahoochee,GA,9/7/2020,America,NY Times,0,13053,USA,United States,US,3,2,0%,0%,Chattahoochee_GA,10753.5,13%,High
+1439,Chattahoochee,GA,9/8/2020,America,NY Times,0,13053,USA,United States,US,0,2,0%,0%,Chattahoochee_GA,10753.5,13%,High
+1461,Chattahoochee,GA,9/9/2020,America,NY Times,0,13053,USA,United States,US,22,2,0%,2%,Chattahoochee_GA,10753.5,14%,High
+1515,Chattahoochee,GA,9/10/2020,America,NY Times,0,13053,USA,United States,US,54,2,0%,4%,Chattahoochee_GA,10753.5,14%,High
+1533,Chattahoochee,GA,9/11/2020,America,NY Times,0,13053,USA,United States,US,18,2,0%,1%,Chattahoochee_GA,10753.5,14%,High
+1584,Chattahoochee,GA,9/12/2020,America,NY Times,0,13053,USA,United States,US,51,2,0%,3%,Chattahoochee_GA,10753.5,15%,High
+1584,Chattahoochee,GA,9/13/2020,America,NY Times,0,13053,USA,United States,US,0,2,0%,0%,Chattahoochee_GA,10753.5,15%,High
+1584,Chattahoochee,GA,9/14/2020,America,NY Times,0,13053,USA,United States,US,0,2,0%,0%,Chattahoochee_GA,10753.5,15%,High
+1583,Chattahoochee,GA,9/15/2020,America,NY Times,-1,13053,USA,United States,US,-1,1,-100%,0%,Chattahoochee_GA,10753.5,15%,High
+1596,Chattahoochee,GA,9/16/2020,America,NY Times,0,13053,USA,United States,US,13,1,0%,1%,Chattahoochee_GA,10753.5,15%,High
+1009,Crowley,CO,11/23/2020,America,NY Times,0,8025,USA,United States,US,2,1,0%,0%,Crowley_CO,6009,17%,High
+1011,Crowley,CO,11/24/2020,America,NY Times,1,8025,USA,United States,US,2,2,50%,0%,Crowley_CO,6009,17%,High
+1015,Crowley,CO,11/25/2020,America,NY Times,0,8025,USA,United States,US,4,2,0%,0%,Crowley_CO,6009,17%,High
+1087,Crowley,CO,11/26/2020,America,NY Times,1,8025,USA,United States,US,72,3,33%,7%,Crowley_CO,6009,18%,High
+1149,Crowley,CO,11/27/2020,America,NY Times,0,8025,USA,United States,US,62,3,0%,5%,Crowley_CO,6009,19%,High
+1222,Crowley,CO,11/28/2020,America,NY Times,0,8025,USA,United States,US,73,3,0%,6%,Crowley_CO,6009,20%,High
+1237,Crowley,CO,11/29/2020,America,NY Times,0,8025,USA,United States,US,15,3,0%,1%,Crowley_CO,6009,21%,High
+1239,Crowley,CO,11/30/2020,America,NY Times,0,8025,USA,United States,US,2,3,0%,0%,Crowley_CO,6009,21%,High
+1241,Crowley,CO,12/1/2020,America,NY Times,0,8025,USA,United States,US,2,3,0%,0%,Crowley_CO,6009,21%,High
+1242,Crowley,CO,12/2/2020,America,NY Times,0,8025,USA,United States,US,1,3,0%,0%,Crowley_CO,6009,21%,High
+1299,Crowley,CO,12/3/2020,America,NY Times,2,8025,USA,United States,US,57,5,40%,4%,Crowley_CO,6009,22%,High
+1310,Crowley,CO,12/4/2020,America,NY Times,0,8025,USA,United States,US,11,5,0%,1%,Crowley_CO,6009,22%,High
+3233,Calumet,WI,11/7/2020,America,NY Times,0,55015,USA,United States,US,60,18,0%,2%,Calumet_WI,50110.5,6%,Medium
+3261,Calumet,WI,11/8/2020,America,NY Times,0,55015,USA,United States,US,28,18,0%,1%,Calumet_WI,50110.5,7%,Medium
+3325,Calumet,WI,11/9/2020,America,NY Times,0,55015,USA,United States,US,64,18,0%,2%,Calumet_WI,50110.5,7%,Medium
+56,Camas,ID,12/5/2020,America,NY Times,0,16025,USA,United States,US,2,0,0%,4%,Camas_ID,1113.5,5%,Medium
+56,Camas,ID,12/6/2020,America,NY Times,0,16025,USA,United States,US,0,0,0%,0%,Camas_ID,1113.5,5%,Medium
+57,Camas,ID,12/7/2020,America,NY Times,0,16025,USA,United States,US,1,0,0%,2%,Camas_ID,1113.5,5%,Medium
+56,Camas,ID,12/8/2020,America,NY Times,0,16025,USA,United States,US,-1,0,0%,-2%,Camas_ID,1113.5,5%,Medium
+24478,Cameron,TX,11/4/2020,America,NY Times,4,48061,USA,United States,US,98,1089,0%,0%,Cameron_TX,422651,6%,Medium
+24478,Cameron,TX,11/5/2020,America,NY Times,0,48061,USA,United States,US,0,1089,0%,0%,Cameron_TX,422651,6%,Medium
+24478,Cameron,TX,11/4/2020,America,NY Times,4,48061,USA,United States,US,98,1089,0%,0%,Cameron_TX,422651,6%,Medium
+24478,Cameron,TX,11/5/2020,America,NY Times,0,48061,USA,United States,US,0,1089,0%,0%,Cameron_TX,422651,6%,Medium
+1417,Carroll,AR,11/29/2020,America,NY Times,0,5015,USA,United States,US,7,23,0%,0%,Carroll_AR,28238.5,5%,Medium
+1433,Carroll,AR,11/30/2020,America,NY Times,0,5015,USA,United States,US,16,23,0%,1%,Carroll_AR,28238.5,5%,Medium
+1463,Carroll,AR,12/1/2020,America,NY Times,0,5015,USA,United States,US,30,23,0%,2%,Carroll_AR,28238.5,5%,Medium
+1503,Carroll,AR,12/2/2020,America,NY Times,0,5015,USA,United States,US,40,23,0%,3%,Carroll_AR,28238.5,5%,Medium
+312,Carter,MO,12/4/2020,America,NY Times,0,29035,USA,United States,US,9,6,0%,3%,Carter_MO,6032.5,5%,Medium
+320,Carter,MO,12/5/2020,America,NY Times,0,29035,USA,United States,US,8,6,0%,3%,Carter_MO,6032.5,5%,Medium
+321,Carter,MO,12/6/2020,America,NY Times,0,29035,USA,United States,US,1,6,0%,0%,Carter_MO,6032.5,5%,Medium
+322,Carter,MO,12/7/2020,America,NY Times,0,29035,USA,United States,US,1,6,0%,0%,Carter_MO,6032.5,5%,Medium
+323,Carter,MO,12/8/2020,America,NY Times,0,29035,USA,United States,US,1,6,0%,0%,Carter_MO,6032.5,5%,Medium
+326,Carter,MO,12/9/2020,America,NY Times,0,29035,USA,United States,US,3,6,0%,1%,Carter_MO,6032.5,5%,Medium
+334,Carter,MO,12/10/2020,America,NY Times,0,29035,USA,United States,US,8,6,0%,2%,Carter_MO,6032.5,6%,Medium
+334,Carter,MO,12/11/2020,America,NY Times,0,29035,USA,United States,US,0,6,0%,0%,Carter_MO,6032.5,6%,Medium
+342,Carter,MO,12/12/2020,America,NY Times,0,29035,USA,United States,US,8,6,0%,2%,Carter_MO,6032.5,6%,Medium
+66,Carter,MT,10/28/2020,America,NY Times,0,30011,USA,United States,US,10,0,0%,15%,Carter_MT,1241,5%,Medium
+69,Carter,MT,10/29/2020,America,NY Times,0,30011,USA,United States,US,3,0,0%,4%,Carter_MT,1241,6%,Medium
+73,Carter,MT,10/30/2020,America,NY Times,2,30011,USA,United States,US,4,2,100%,5%,Carter_MT,1241,6%,Medium
+73,Carter,MT,10/31/2020,America,NY Times,0,30011,USA,United States,US,0,2,0%,0%,Carter_MT,1241,6%,Medium
+77,Carter,MT,11/1/2020,America,NY Times,0,30011,USA,United States,US,4,2,0%,5%,Carter_MT,1241,6%,Medium
+816,Cass,IA,11/29/2020,America,NY Times,0,19029,USA,United States,US,7,23,0%,1%,Cass_IA,12892,6%,Medium
+818,Cass,IA,11/30/2020,America,NY Times,0,19029,USA,United States,US,2,23,0%,0%,Cass_IA,12892,6%,Medium
+822,Cass,IA,12/1/2020,America,NY Times,1,19029,USA,United States,US,4,24,4%,0%,Cass_IA,12892,6%,Medium
+835,Cass,IA,12/2/2020,America,NY Times,0,19029,USA,United States,US,13,24,0%,2%,Cass_IA,12892,6%,Medium
+847,Cass,IA,12/3/2020,America,NY Times,1,19029,USA,United States,US,12,25,4%,1%,Cass_IA,12892,7%,Medium
+861,Cass,IA,12/4/2020,America,NY Times,1,19029,USA,United States,US,14,26,4%,2%,Cass_IA,12892,7%,Medium
+868,Cass,IA,12/5/2020,America,NY Times,0,19029,USA,United States,US,7,26,0%,1%,Cass_IA,12892,7%,Medium
+875,Cass,IA,12/6/2020,America,NY Times,0,19029,USA,United States,US,7,26,0%,1%,Cass_IA,12892,7%,Medium
+2606,Cass,MI,12/9/2020,America,NY Times,0,26027,USA,United States,US,42,31,0%,2%,Cass_MI,51756,5%,Medium
+2659,Cass,MI,12/10/2020,America,NY Times,3,26027,USA,United States,US,53,34,9%,2%,Cass_MI,51756,5%,Medium
+2705,Cass,MI,12/11/2020,America,NY Times,1,26027,USA,United States,US,46,35,3%,2%,Cass_MI,51756,5%,Medium
+2722,Cass,MI,12/12/2020,America,NY Times,1,26027,USA,United States,US,17,36,3%,1%,Cass_MI,51756,5%,Medium
+1499,Cass,MN,12/2/2020,America,NY Times,0,27021,USA,United States,US,19,10,0%,1%,Cass_MN,29645,5%,Medium
+1338,Big Horn,MT,10/26/2020,America,NY Times,2,30003,USA,United States,US,7,36,6%,1%,Big Horn_MT,13342,10%,High
+1358,Big Horn,MT,10/27/2020,America,NY Times,0,30003,USA,United States,US,20,36,0%,1%,Big Horn_MT,13342,10%,High
+1362,Big Horn,MT,10/28/2020,America,NY Times,0,30003,USA,United States,US,4,36,0%,0%,Big Horn_MT,13342,10%,High
+1376,Big Horn,MT,10/29/2020,America,NY Times,2,30003,USA,United States,US,14,38,5%,1%,Big Horn_MT,13342,10%,High
+10622,Woodbury,IA,12/2/2020,America,NY Times,3,19193,USA,United States,US,138,133,2%,1%,Woodbury_IA,102811,10%,High
+10764,Woodbury,IA,12/3/2020,America,NY Times,4,19193,USA,United States,US,142,137,3%,1%,Woodbury_IA,102811,10%,High
+10819,Woodbury,IA,12/4/2020,America,NY Times,3,19193,USA,United States,US,55,140,2%,1%,Woodbury_IA,102811,11%,High
+10946,Woodbury,IA,12/5/2020,America,NY Times,0,19193,USA,United States,US,127,140,0%,1%,Woodbury_IA,102811,11%,High
+11001,Woodbury,IA,12/6/2020,America,NY Times,0,19193,USA,United States,US,55,140,0%,0%,Woodbury_IA,102811,11%,High
+11068,Woodbury,IA,12/7/2020,America,NY Times,2,19193,USA,United States,US,67,142,1%,1%,Woodbury_IA,102811,11%,High
+11070,Woodbury,IA,12/8/2020,America,NY Times,-16,19193,USA,United States,US,2,126,-13%,0%,Woodbury_IA,102811,11%,High
+11133,Woodbury,IA,12/9/2020,America,NY Times,6,19193,USA,United States,US,63,132,5%,1%,Woodbury_IA,102811,11%,High
+11237,Woodbury,IA,12/10/2020,America,NY Times,8,19193,USA,United States,US,104,140,6%,1%,Woodbury_IA,102811,11%,High
+11364,Woodbury,IA,12/11/2020,America,NY Times,3,19193,USA,United States,US,127,143,2%,1%,Woodbury_IA,102811,11%,High
+2566,Seward,KS,11/16/2020,America,NY Times,0,20175,USA,United States,US,99,13,0%,4%,Seward_KS,21665,12%,High
+2566,Seward,KS,11/17/2020,America,NY Times,0,20175,USA,United States,US,0,13,0%,0%,Seward_KS,21665,12%,High
+2628,Seward,KS,11/18/2020,America,NY Times,0,20175,USA,United States,US,62,13,0%,2%,Seward_KS,21665,12%,High
+2628,Seward,KS,11/19/2020,America,NY Times,0,20175,USA,United States,US,0,13,0%,0%,Seward_KS,21665,12%,High
+3664,Scotts Bluff,NE,12/7/2020,America,NY Times,0,31157,USA,United States,US,63,33,0%,2%,Scotts Bluff_NE,35771.5,10%,High
+3694,Scotts Bluff,NE,12/8/2020,America,NY Times,1,31157,USA,United States,US,30,34,3%,1%,Scotts Bluff_NE,35771.5,10%,High
+3729,Scotts Bluff,NE,12/9/2020,America,NY Times,0,31157,USA,United States,US,35,34,0%,1%,Scotts Bluff_NE,35771.5,10%,High
+3765,Scotts Bluff,NE,12/10/2020,America,NY Times,5,31157,USA,United States,US,36,39,13%,1%,Scotts Bluff_NE,35771.5,11%,High
+3787,Scotts Bluff,NE,12/11/2020,America,NY Times,0,31157,USA,United States,US,22,39,0%,1%,Scotts Bluff_NE,35771.5,11%,High
+3787,Scotts Bluff,NE,12/12/2020,America,NY Times,0,31157,USA,United States,US,0,39,0%,0%,Scotts Bluff_NE,35771.5,11%,High
+1687,Scurry,TX,12/4/2020,America,NY Times,2,48415,USA,United States,US,24,24,8%,1%,Scurry_TX,16757.5,10%,High
+1686,Scurry,TX,12/5/2020,America,NY Times,0,48415,USA,United States,US,-1,24,0%,0%,Scurry_TX,16757.5,10%,High
+282,Davie,NC,7/21/2020,America,NY Times,0,37059,USA,United States,US,4,3,0%,1%,Davie_NC,42704.5,1%,Low
+284,Davie,NC,7/22/2020,America,NY Times,0,37059,USA,United States,US,2,3,0%,1%,Davie_NC,42704.5,1%,Low
+287,Davie,NC,7/23/2020,America,NY Times,0,37059,USA,United States,US,3,3,0%,1%,Davie_NC,42704.5,1%,Low
+2642,Kenai Peninsula Borough,AK,12/1/2020,America,NY Times,0,2122,USA,United States,US,58,7,0%,2%,Kenai Peninsula Borough_AK,58634.5,5%,Low
+2724,Kenai Peninsula Borough,AK,12/2/2020,America,NY Times,0,2122,USA,United States,US,82,7,0%,3%,Kenai Peninsula Borough_AK,58634.5,5%,Low
+2789,Kenai Peninsula Borough,AK,12/3/2020,America,NY Times,0,2122,USA,United States,US,65,7,0%,2%,Kenai Peninsula Borough_AK,58634.5,5%,Low
+2843,Kenai Peninsula Borough,AK,12/4/2020,America,NY Times,2,2122,USA,United States,US,54,9,22%,2%,Kenai Peninsula Borough_AK,58634.5,5%,Low
+2929,Kenai Peninsula Borough,AK,12/5/2020,America,NY Times,0,2122,USA,United States,US,86,9,0%,3%,Kenai Peninsula Borough_AK,58634.5,5%,Low
+0,Kendall,IL,1/21/2020,America,NY Times,0,17093,USA,United States,US,0,0,0%,0%,Kendall_IL,128353.5,0%,Low
+17915,Montgomery,TX,11/30/2020,America,NY Times,0,48339,USA,United States,US,933,212,0%,5%,Montgomery_TX,598580.5,3%,Low
+18183,Montgomery,TX,12/1/2020,America,NY Times,0,48339,USA,United States,US,268,212,0%,1%,Montgomery_TX,598580.5,3%,Low
+18430,Montgomery,TX,12/2/2020,America,NY Times,2,48339,USA,United States,US,247,214,1%,1%,Montgomery_TX,598580.5,3%,Low
+18648,Montgomery,TX,12/3/2020,America,NY Times,1,48339,USA,United States,US,218,215,0%,1%,Montgomery_TX,598580.5,3%,Low
+18934,Montgomery,TX,12/4/2020,America,NY Times,1,48339,USA,United States,US,286,216,0%,2%,Montgomery_TX,598580.5,3%,Low
+18934,Montgomery,TX,12/5/2020,America,NY Times,0,48339,USA,United States,US,0,216,0%,0%,Montgomery_TX,598580.5,3%,Low
+18934,Montgomery,TX,12/6/2020,America,NY Times,0,48339,USA,United States,US,0,216,0%,0%,Montgomery_TX,598580.5,3%,Low
+19584,Montgomery,TX,12/7/2020,America,NY Times,0,48339,USA,United States,US,650,216,0%,3%,Montgomery_TX,598580.5,3%,Low
+386,Rowan,KY,11/1/2020,America,NY Times,0,21205,USA,United States,US,8,2,0%,2%,Rowan_KY,24481.5,2%,Low
+390,Rowan,KY,11/2/2020,America,NY Times,0,21205,USA,United States,US,4,2,0%,1%,Rowan_KY,24481.5,2%,Low
+412,Rowan,KY,11/3/2020,America,NY Times,0,21205,USA,United States,US,22,2,0%,5%,Rowan_KY,24481.5,2%,Low
+419,Rowan,KY,11/4/2020,America,NY Times,0,21205,USA,United States,US,7,2,0%,2%,Rowan_KY,24481.5,2%,Low
+428,Rowan,KY,11/5/2020,America,NY Times,0,21205,USA,United States,US,9,2,0%,2%,Rowan_KY,24481.5,2%,Low
+450,Rowan,KY,11/6/2020,America,NY Times,0,21205,USA,United States,US,22,2,0%,5%,Rowan_KY,24481.5,2%,Low
+460,Rowan,KY,11/7/2020,America,NY Times,0,21205,USA,United States,US,10,2,0%,2%,Rowan_KY,24481.5,2%,Low
